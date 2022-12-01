@@ -1,4 +1,4 @@
 1.C语言：MOOC+XMUOJ
 2.数据结构：学校课程+PTA
-３.C＋＋：MOOC＋XMUOJ
-４.python：看书
+3.C＋＋：MOOC＋XMUOJ
+4.python：看书
