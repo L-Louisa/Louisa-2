@@ -1,2 +1,1 @@
-Markdown：一种标记语言，纯文本格式书写
-文档后缀：.md     .markdown
+1.Markdown：一种标记语言，纯文本格式书写。文档后缀是“.md”或“.markdown”
